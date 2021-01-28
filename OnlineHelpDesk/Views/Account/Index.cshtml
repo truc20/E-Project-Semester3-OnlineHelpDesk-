@@ -1,0 +1,96 @@
+﻿@{
+    ViewData["Title"] = "Account List";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section class="content-header">
+    <h1>
+       Account List
+    </h1>
+    <ol class="breadcrumb">
+        <li><a asp-controller="dashboard" asp-action="index"><i class="fa fa-dashboard"></i> Home</a></li>
+        <li><a href="#">Account List</a></li>
+       
+    </ol>
+</section>
+<section class="content">
+    <div class="row">
+        <div class="col-xs-12">
+            @if (ViewBag.msg != null)
+            {
+                if (ViewBag.msg == "Done")
+                {
+                    <div class="callout callout-success">
+                        <h1>Success</h1>
+                    </div>
+                }
+                else
+                {
+                    <div class="callout callout-danger">
+                        <h1>Failed</h1>
+                    </div>
+                }
+            }
+            <div class="box">
+                <!-- /.box-header -->
+                <div class="box-body">
+                    <table id="example2" class="table table-bordered table-hover">
+                        <thead>
+                            <tr>
+                                <th>Id</th>
+                                <th>User Name</th>
+                                <th>Full Name</th>
+                                <th>Role</th>
+                                <th>Status</th>
+                                <th>Action</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var account in ViewBag.accounts)
+                            {
+                                <tr>
+                                    <td>@account.Id</td>
+                                    <td>@account.UserName</td>
+                                    <td>@account.FullName</td>
+                                    <td>@account.Role.Name</td>
+                                    <td>@(account.Status ?  "Active": "Inactive" )</td>
+                                    <td>
+
+                                        <a asp-controller="account" asp-action="edit" asp-route-id="@account.Id">Edit</a> |
+                                        <a asp-controller="account" asp-action="delete" asp-route-id="@account.Id" onclick="return confirm('Are you sure?')">Delete</a>
+
+                                    </td>
+                                </tr>
+                            }
+
+                        </tbody>
+                        <tfoot>
+                            <tr>
+                                <th>Id</th>
+                                <th>User Name</th>
+                                <th>Full Name</th>
+                                <th>Role</th>
+                                <th>Status</th>
+                                <th>Action</th>
+                            </tr>
+                        </tfoot>
+                    </table>
+                </div>
+                <!-- /.box-body -->
+            </div>
+        </div>
+        <!-- /.col -->
+    </div>
+    <!-- /.row -->
+</section>
+<script>$(function () {
+    $('#example2').DataTable({
+      'paging'      : true,
+      'lengthChange': false,
+      'searching'   : false,
+      'ordering'    : true,
+      'info'        : true,
+      'autoWidth'   : false
+    })
+  })</script>
+

@@ -1,0 +1,662 @@
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\appsettings.json
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\OnlineHelpDesk.exe
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\OnlineHelpDesk.deps.json
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\OnlineHelpDesk.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\OnlineHelpDesk.runtimeconfig.dev.json
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\OnlineHelpDesk.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\ref\OnlineHelpDesk.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\OnlineHelpDesk.pdb
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\BCrypt.Net-Core.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\staticwebassets\OnlineHelpDesk.StaticWebAssets.Manifest.cache
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\staticwebassets\OnlineHelpDesk.StaticWebAssets.xml
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\scopedcss\bundle\OnlineHelpDesk.styles.css
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\ref\OnlineHelpDesk.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.pdb
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\OnlineHelpDesk.Views.dll
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\bin\Debug\net5.0\OnlineHelpDesk.Views.pdb
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.RazorAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.RazorAssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.TagHelpers.input.cache
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.TagHelpers.output.cache
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.RazorCoreGenerate.cache
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\Razor\_ViewImports.cshtml.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.RazorTargetAssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.Views.pdb
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Login\AccessDenied.cshtml.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Account\Index.cshtml.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Account\Profile.cshtml.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Account\Add.cshtml.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Account\Edit.cshtml.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Category\Add.cshtml.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Category\Edit.cshtml.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Period\Index.cshtml.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Period\Add.cshtml.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Period\Edit.cshtml.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Status\Index.cshtml.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Status\Add.cshtml.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Status\Edit.cshtml.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Ticket\Send.cshtml.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.csprojAssemblyReference.cache
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Ticket\History.cshtml.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Ticket\List.cshtml.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Ticket\Assign.cshtml.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Ticket\Details.cshtml.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Ticket\Assigned.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\appsettings.Development.json
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\appsettings.json
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\OnlineHelpDesk.exe
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\OnlineHelpDesk.deps.json
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\OnlineHelpDesk.runtimeconfig.json
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\OnlineHelpDesk.runtimeconfig.dev.json
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\OnlineHelpDesk.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\ref\OnlineHelpDesk.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\OnlineHelpDesk.pdb
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\OnlineHelpDesk.Views.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\OnlineHelpDesk.Views.pdb
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\BCrypt.Net-Core.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Castle.Core.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Humanizer.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.csprojAssemblyReference.cache
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.AssemblyInfoInputs.cache
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.AssemblyInfo.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.csproj.CoreCompileInputs.cache
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.MvcApplicationPartsAssemblyInfo.cache
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.RazorAssemblyInfo.cache
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.RazorAssemblyInfo.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\staticwebassets\OnlineHelpDesk.StaticWebAssets.Manifest.cache
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\staticwebassets\OnlineHelpDesk.StaticWebAssets.xml
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\scopedcss\bundle\OnlineHelpDesk.styles.css
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.TagHelpers.input.cache
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.TagHelpers.output.cache
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.RazorCoreGenerate.cache
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Account\Add.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Account\Edit.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Account\Index.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Account\Profile.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Category\Add.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Category\Edit.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Dashboard\Index.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Login\AccessDenied.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Period\Add.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Period\Edit.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Period\Index.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Status\Add.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Status\Edit.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Status\Index.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Ticket\Assign.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Ticket\Assigned.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Ticket\Details.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Ticket\History.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Ticket\List.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Ticket\Send.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\_ViewImports.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.RazorTargetAssemblyInfo.cache
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.RazorTargetAssemblyInfo.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.Views.pdb
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.csproj.CopyComplete
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\ref\OnlineHelpDesk.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.pdb
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.genruntimeconfig.cache
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\appsettings.Development.json
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\appsettings.json
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\OnlineHelpDesk.exe
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\OnlineHelpDesk.deps.json
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\OnlineHelpDesk.runtimeconfig.json
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\OnlineHelpDesk.runtimeconfig.dev.json
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\OnlineHelpDesk.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\ref\OnlineHelpDesk.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\OnlineHelpDesk.pdb
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\OnlineHelpDesk.Views.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\OnlineHelpDesk.Views.pdb
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\BCrypt.Net-Core.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Castle.Core.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Humanizer.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.csprojAssemblyReference.cache
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.AssemblyInfoInputs.cache
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.AssemblyInfo.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.csproj.CoreCompileInputs.cache
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.MvcApplicationPartsAssemblyInfo.cache
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.RazorAssemblyInfo.cache
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.RazorAssemblyInfo.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\staticwebassets\OnlineHelpDesk.StaticWebAssets.Manifest.cache
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\staticwebassets\OnlineHelpDesk.StaticWebAssets.xml
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\scopedcss\bundle\OnlineHelpDesk.styles.css
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.TagHelpers.input.cache
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.TagHelpers.output.cache
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.RazorCoreGenerate.cache
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Account\Add.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Account\Edit.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Account\Index.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Account\Profile.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Category\Add.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Category\Edit.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Dashboard\Index.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Login\AccessDenied.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Period\Add.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Period\Edit.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Period\Index.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Status\Add.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Status\Edit.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Status\Index.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Ticket\Assign.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Ticket\Assigned.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Ticket\Details.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Ticket\History.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Ticket\List.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Ticket\Send.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\_ViewImports.cshtml.g.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.RazorTargetAssemblyInfo.cache
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.RazorTargetAssemblyInfo.cs
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.Views.pdb
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.csproj.CopyComplete
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\ref\OnlineHelpDesk.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.pdb
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.genruntimeconfig.cache
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\appsettings.Development.json
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\appsettings.json
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\OnlineHelpDesk.exe
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\OnlineHelpDesk.deps.json
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\OnlineHelpDesk.runtimeconfig.json
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\OnlineHelpDesk.runtimeconfig.dev.json
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\OnlineHelpDesk.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\ref\OnlineHelpDesk.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\OnlineHelpDesk.pdb
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\OnlineHelpDesk.Views.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\OnlineHelpDesk.Views.pdb
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\BCrypt.Net-Core.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Castle.Core.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Humanizer.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.csprojAssemblyReference.cache
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.AssemblyInfoInputs.cache
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.AssemblyInfo.cs
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.csproj.CoreCompileInputs.cache
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.MvcApplicationPartsAssemblyInfo.cache
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.RazorAssemblyInfo.cache
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.RazorAssemblyInfo.cs
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\staticwebassets\OnlineHelpDesk.StaticWebAssets.Manifest.cache
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\staticwebassets\OnlineHelpDesk.StaticWebAssets.xml
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\scopedcss\bundle\OnlineHelpDesk.styles.css
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.TagHelpers.input.cache
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.TagHelpers.output.cache
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.RazorCoreGenerate.cache
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Account\Add.cshtml.g.cs
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Account\Edit.cshtml.g.cs
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Account\Index.cshtml.g.cs
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Account\Profile.cshtml.g.cs
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Category\Add.cshtml.g.cs
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Category\Edit.cshtml.g.cs
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Dashboard\Index.cshtml.g.cs
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Login\AccessDenied.cshtml.g.cs
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Period\Add.cshtml.g.cs
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Period\Edit.cshtml.g.cs
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Period\Index.cshtml.g.cs
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Status\Add.cshtml.g.cs
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Status\Edit.cshtml.g.cs
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Status\Index.cshtml.g.cs
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Ticket\Assign.cshtml.g.cs
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Ticket\Assigned.cshtml.g.cs
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Ticket\Details.cshtml.g.cs
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Ticket\History.cshtml.g.cs
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Ticket\List.cshtml.g.cs
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Ticket\Send.cshtml.g.cs
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\_ViewImports.cshtml.g.cs
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.RazorTargetAssemblyInfo.cache
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.RazorTargetAssemblyInfo.cs
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.Views.pdb
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.csproj.CopyComplete
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\ref\OnlineHelpDesk.dll
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.pdb
+D:\PROJECT SEM 3\Bản nháp\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\OnlineHelpDesk.genruntimeconfig.cache
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\PROJECT SEM 3\OnlineHelpDesk\OnlineHelpDesk\obj\Debug\net5.0\Razor\Views\Status\Privacy.cshtml.g.cs

@@ -1,0 +1,94 @@
+﻿@{
+    ViewData["Title"] = "Status List";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section class="content-header">
+    <h1>
+        Status List
+    </h1>
+    <ol class="breadcrumb">
+        <li><a asp-controller="dashboard" asp-action="index"><i class="fa fa-dashboard"></i> Home</a></li>
+        <li><a href="#">Status List</a></li>
+
+    </ol>
+</section>
+<section class="content">
+    <div class="row">
+        <div class="col-xs-12">
+            @if (ViewBag.msg != null)
+            {
+                if (ViewBag.msg == "Done")
+                {
+                    <div class="callout callout-success">
+                        <h1>Success</h1>
+                    </div>
+                }
+                else
+                {
+                    <div class="callout callout-danger">
+                        <h1>Failed</h1>
+                    </div>
+                }
+            }
+            <div class="box">
+                <!-- /.box-header -->
+                <div class="box-body">
+                    <table id="example2" class="table table-bordered table-hover">
+                        <thead>
+                            <tr>
+                                <th>Id</th>
+                                <th>Name</th>
+                                <th>Color</th>
+                                <th>Status</th>
+                                <th>Action</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var status in ViewBag.statuses)
+                            {
+                            <tr>
+                                <td>@status.Id</td>
+                                <td>@status.Name</td>
+                                <td><span class="label label-@status.Color">&nbsp;</span></td>
+                                <td>@(status.Display ?  "Active": "Inactive" )</td>
+                                <td>
+
+                                    <a asp-controller="status" asp-action="edit" asp-route-id="@status.Id">Edit</a> |
+                                    <a asp-controller="status" asp-action="delete" asp-route-id="@status.Id" onclick="return confirm('Are you sure?')">Delete</a>
+
+                                </td>
+                            </tr>
+                            }
+
+                        </tbody>
+                        <tfoot>
+                            <tr>
+                                <th>Id</th>
+                                <th>Name</th>
+                                <th>Color</th>
+                                <th>Status</th>
+                                <th>Action</th>
+                            </tr>
+                        </tfoot>
+                    </table>
+                </div>
+                <!-- /.box-body -->
+            </div>
+        </div>
+        <!-- /.col -->
+    </div>
+    <!-- /.row -->
+</section>
+<script>
+$(function () {
+    $('#example2').DataTable({
+      'paging'      : true,
+      'lengthChange': false,
+      'searching'   : false,
+      'ordering'    : true,
+      'info'        : true,
+      'autoWidth'   : false
+    })
+  })</script>
+

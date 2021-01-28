@@ -1,0 +1,83 @@
+﻿@{
+    ViewData["Title"] = "Send Ticket";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model OnlineHelpDesk.Models.ViewModels.TicketViewModel
+<section class="content-header">
+    <h1>
+        Send Ticket
+    </h1>
+    <ol class="breadcrumb">
+        <li><a asp-controller="dashboard" asp-action="index"><i class="fa fa-dashboard"></i> Home</a></li>
+        <li><a href="#">Send Ticket</a></li>
+    </ol>
+</section>
+<section class="content">
+    <div class="row">
+
+        <div class="col-md-12">
+            @if (TempData["msg"] != null)
+            {
+                if (TempData["msg"].ToString() == "Done")
+                {
+                    <div class="callout callout-success">
+                        <h1>Success</h1>
+                    </div>
+                }
+                else
+                {
+                    <div class="callout callout-danger">
+                        <h1>Failed</h1>
+                    </div>
+                }
+            }
+            <div class="box box-primary">
+                <form asp-controller="ticket" asp-action="send" method="post" enctype="multipart/form-data">
+                    <div class="box-body">
+                        <div class="form-group">
+                            <label for="username">Title</label>
+                            <input type="text" class="form-control" id="username" required="required" asp-for="Ticket.Title">
+                        </div>
+                        <div class="form-group">
+                            <label for="password">Description</label>
+                            <textarea class="form-control" asp-for="Ticket.Description"></textarea>
+
+                        </div>
+                        <div class="form-group">
+                            <label>Status</label>
+                            <select class="form-control" asp-for="Ticket.StatusId" asp-items="@Model.Statuses">
+                            </select>
+                        </div>
+
+                        <div class="form-group">
+                            <label>Category</label>
+                            <select class="form-control" asp-for="Ticket.CategoryId" asp-items="@Model.Categories">
+                            </select>
+                        </div>
+
+                        <div class="form-group">
+                            <label>Period</label>
+                            <select class="form-control" asp-for="Ticket.PeriodId" asp-items="@Model.Periods">
+                            </select>
+                        </div>
+
+                        <div class="form-control">
+                            <label for="Files">Files</label>
+                            <br />
+                            <input type="file" id="Files" name="files" multiple="multiple" accept="image/*"/>
+                            <br />
+                        </div>
+
+                    </div>
+                    <!-- /.box-body -->
+
+                    <div class="box-footer">
+                        <button type="submit" class="btn btn-primary">Send</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <!-- /.row -->
+</section>
+
